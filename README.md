@@ -1,1 +1,1 @@
-This project deals with the object identification in an image using C with no libraries. For more details please refer to the given presentation.
+This project deals with the object identification in an image using C with no libraries. For more details please refer to the given presentation. Test images in the BMP format are given in the images folder.
